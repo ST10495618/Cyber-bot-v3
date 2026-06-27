@@ -24,6 +24,37 @@ Follow-up responses
 Basic Natural Language Processing (NLP)
 
 This version focused on creating the chatbot's core functionality before introducing a graphical interface.
+## Version 2 – Graphical User Interface (GUI)
+
+The second version transformed the chatbot from a console application into a Windows Presentation Foundation (WPF) desktop application.
+
+### New Features
+- Modern graphical user interface
+- Chat bubble interface
+- Animated background colours
+- User profile image
+- Voice greeting on startup
+- Improved chatbot interaction
+- Enhanced user experience
+- Better organisation of chatbot responses
+
+---
+
+## Version 3 – Intelligent Cybersecurity Assistant
+
+The third version extends the chatbot into a more intelligent assistant by integrating database functionality, task management, quizzes, reminders, and activity tracking.
+
+### New Features
+- MySQL database integration
+- Task management system
+- Add, view, complete and delete tasks
+- Reminder system
+- Activity log
+- Cybersecurity quiz with scoring and feedback
+- Improved Natural Language Processing (NLP)
+- Multiple command recognition (e.g. "add task", "create task", "new task")
+- Better memory of user interactions
+- Persistent task storage using MySQL
 ## Features
 
 ### Cybersecurity Chatbot
