@@ -8,7 +8,22 @@ Luna Cyberbot is a Windows Presentation Foundation (WPF) chatbot developed in C#
 The chatbot also uses a MySQL database to store user tasks and reminders.
 
 ---
+Project Evolution
+Version 1 – Console Application
 
+The first version of Luna Cyberbot was developed as a console application.
+
+Features Included
+Text-based chatbot interface
+Cybersecurity awareness tips
+Keyword detection
+User name memory
+Conversation history
+Random cybersecurity responses
+Follow-up responses
+Basic Natural Language Processing (NLP)
+
+This version focused on creating the chatbot's core functionality before introducing a graphical interface.
 ## Features
 
 ### Cybersecurity Chatbot
